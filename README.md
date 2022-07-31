@@ -7,3 +7,6 @@ Three different Implementation are provided:
 <li>Parallel Implementation using C++ thread
 <li>Parallel Implementation using FastFlow
 </ul>
+
+
+For more details read the PDS_Report.pdf file.
